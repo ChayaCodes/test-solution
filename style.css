@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(243, 243, 243);
+    box-sizing: border-box;
+    font-family: cursive;
+
+}
+
+
+.solution{
+    font-size: 40px;
+    font-family: cursive;
+}
+  
+#submitAnswer{
+    background-color:darkblue;
+    width:90%;
+    margin: 10px;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    height: 40%;
+
+
+}
+#answer{
+    border: 1px solid darkblue;
+    width: 90%;
+    margin: 10px;
+    height: 40%;
+    min-height: 30px;
+}
+
+#answer::placeholder{
+    color:darkblue;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.box{
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    margin: 20vh 20vw;
+    display: flex;
+    flex-direction: column;
+}
+.win{
+    color: green;
+}
+.lose{
+    color:red;
+}
+.timer{
+    text-align: center;
+}
