@@ -56,6 +56,12 @@ Contributions are welcome! If you'd like to contribute to this project, please [
 
 ## Author
 
+👩‍💻 Chaya Kramer
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Tags
 
 - Math Challenge
@@ -106,9 +112,3 @@ Contributions are welcome! If you'd like to contribute to this project, please [
 - Mathematics Education
 - Coding for Fun
 
-
-👩‍💻 Chaya Kramer
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
