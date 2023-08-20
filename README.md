@@ -56,6 +56,57 @@ Contributions are welcome! If you'd like to contribute to this project, please [
 
 ## Author
 
+## Tags
+
+- Math Challenge
+- Math Game
+- Mental Math
+- Educational Game
+- Web Application
+- Front-End Development
+- JavaScript
+- HTML
+- CSS
+- User Interface
+- Interactive Design
+- Timed Challenges
+- Brain Teasers
+- Problem Solving
+- Learning App
+- Educational Technology
+- Gamification
+- Code Project
+- Browser Game
+- Code Challenge
+- Skill Building
+- Math Puzzles
+- Math Practice
+- Online Game
+- Math Skills
+- Number Crunching
+- Mathematical Operations
+- Programming Logic
+- User Experience
+- Responsive Design
+- Gaming App
+- Math Training
+- Web Development
+- Coding Practice
+- Algorithm Practice
+- Mathematical Thinking
+- Digital Learning
+- Educational Resources
+- Play and Learn
+- HTML Forms
+- JavaScript Logic
+- CSS Styling
+- Code Snippets
+- Creative Learning
+- Problem Solving Skills
+- Mathematics Education
+- Coding for Fun
+
+
 👩‍💻 Chaya Kramer
 
 ## License
